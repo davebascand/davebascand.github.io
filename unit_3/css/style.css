@@ -1,5 +1,5 @@
 body {
-
+	background-color: 000000;
 }
 
 h1 {
@@ -29,7 +29,6 @@ img
 #slogan	{
 	font-style: italic;
 }
-
 
 
 @font-face {
