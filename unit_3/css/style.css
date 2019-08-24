@@ -28,8 +28,8 @@ img
 
 @font-face {
     font-family: 'trump_gothic_eastbold';
-    src: url('../fonts/trump_gothic_east_bold-webfont.woff2') format('woff2'),
-         url('../fonts/trump_gothic_east_bold-webfont.woff') format('woff');
+    src: href=('../fonts/trump_gothic_east_bold-webfont.woff2') format('woff2'),
+         href=('../fonts/trump_gothic_east_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
