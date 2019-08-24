@@ -1,7 +1,8 @@
 body
 
 h1 {
-	font-size: 30px
+	font-size: 30px,
+	font-family: helvetica;
 }
 
 h3
