@@ -4,7 +4,7 @@ body {
 
 h1 {
 	font-size: 30px;
-	font-family: 'trump_gothic_eastbold', Helvetica, Arial, sans-serif;
+	font-family: trump_gothic_eastbold, Helvetica, Arial, sans-serif;
 }
 
 h3
@@ -23,9 +23,9 @@ img
 #slogan
 
 @font-face {
-    font-family: 'trump_gothic_eastbold';
-    src: url("fonts/trump_gothic_east_bold-webfont.woff2") format('woff2'),
-         url('font/trump_gothic_east_bold-webfont.woff') format('woff');
+    font-family: trump_gothic_eastbold;
+    src: url('css/fonts/trump_gothic_east_bold-webfont.woff2') format('woff2'),
+         url('css/font/trump_gothic_east_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
