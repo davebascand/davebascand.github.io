@@ -13,24 +13,29 @@ body {
 h1 {
 	font-size: 40px;
 	font-family: 'trump_gothic_eastbold', Helvetica, Arial, sans-serif;
+	color: #2B2B2B;
 }
 
 h3	{
 	font-size: 30px;
 	font-family: Helvetica, Arial, sans-serif;
+	color: #2B2B2B;
 }
 
 h4	{
 	font-size: 20px;
 	font-family: Helvetica, Arial, sans-serif;
+	color: #2B2B2B;
 }
 
 p {
 	font-size: 15px;
 	font-family: serif;
+	color: #2B2B2B;
 }
 
 #slogan	{
+	font-family: Helvetica, Arial, sans-serif;
 	font-style: italic;
 }
 
