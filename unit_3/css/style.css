@@ -12,7 +12,7 @@ body {
 
 h1 {
 	font-size: 40px;
-	color: #FBEFAB;
+	color: #2B2B2B;
 	font-family: 'trump_gothic_eastbold', Helvetica, Arial, sans-serif;
 }
 
@@ -32,6 +32,11 @@ p {
 	font-size: 15px;
 	font-family: serif;
 	color: #2B2B2B;
+}
+
+.buttontext {
+	font-family: Helvetica, Arial, sans-serif;
+	color: #FBEFAB;
 }
 
 #slogan	{
