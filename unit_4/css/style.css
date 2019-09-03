@@ -6,7 +6,7 @@
     font-style: normal;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
 
 body {
 	background-color: #ffffff;
@@ -15,18 +15,18 @@ body {
 h1 {
 	font-size: 40px;
 	color: #2B2B2B;
-	font-family: 'trump_gothic_eastbold', Helvetica, Arial, sans-serif;
+	font-family: 'trump_gothic_eastbold', 'Work Sans', sans-serif;
 }
 
 h3	{
 	font-size: 30px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	color: #2B2B2B;
 }
 
 h4	{
 	font-size: 20px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	color: #2B2B2B;
 }
 
@@ -37,12 +37,12 @@ p {
 }
 
 .buttontext {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	color: #FBEFAB;
 }
 
 #slogan	{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-style: italic;
 }
 
