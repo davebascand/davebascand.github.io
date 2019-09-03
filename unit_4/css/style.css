@@ -1,10 +1,12 @@
 @font-face {
     font-family: 'trump_gothic_eastbold';
-    src: ('fonts/trump_gothic_east_bold-webfont.woff2') format('woff2'),
-         ('fonts/trump_gothic_east_bold-webfont.woff') format('woff');
+    src: url('fonts/trump_gothic_east_bold-webfont.woff2') format('woff2'),
+         url('fonts/trump_gothic_east_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 body {
 	background-color: #ffffff;
@@ -18,13 +20,13 @@ h1 {
 
 h3	{
 	font-size: 30px;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: #2B2B2B;
 }
 
 h4	{
 	font-size: 20px;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: #2B2B2B;
 }
 
@@ -35,12 +37,12 @@ p {
 }
 
 .buttontext {
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: #FBEFAB;
 }
 
 #slogan	{
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-style: italic;
 }
 
