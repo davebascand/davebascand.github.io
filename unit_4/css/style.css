@@ -4,6 +4,7 @@
          url('css/fonts/trump_gothic_east_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    text-transform: uppercase;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600,700&display=swap');
@@ -15,8 +16,6 @@ body {
 h1 {
 	font-size: 60px;
 	font-family: 'trump_gothic_eastbold', 'Work Sans', sans-serif;
-	font-weight: normal;
-    font-style: normal;
 	color: #2B2B2B;
 }
 
