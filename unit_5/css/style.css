@@ -13,6 +13,10 @@ body {
 	background-color: #ffffff;
 }
 
+header {
+	background-image: url(/images/map.jpg);
+}
+
 h1 {
 	font-size: 60px;
 	font-family: 'trump_gothic_eastbold', 'Work Sans', sans-serif;
