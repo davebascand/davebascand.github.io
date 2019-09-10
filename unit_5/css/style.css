@@ -13,6 +13,8 @@
 header {
 	background-image: url("images/map.jpg");
 	background-color: #FFED74;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 h1 {
@@ -72,6 +74,9 @@ p {
 	font-weight: 400;
 	line-height: 28px;
 	color: #2B2B2B;
+	background-color: #E8C66A;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 #slogan	{
@@ -83,10 +88,15 @@ p {
 
 #about{
 	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 #features {
+	background-color: #FFE2B8;
 	text-align: center;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 #copyright	{
