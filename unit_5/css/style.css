@@ -14,7 +14,7 @@ body {
 }
 
 header {
-	background-image: url(/images/map.jpg);
+	background-image: url("/images/map.jpg");
 }
 
 h1 {
