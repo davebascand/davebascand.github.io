@@ -57,6 +57,9 @@ p {
 	padding: 10px;
 	max-width: 300px;
 	display: inline-block;
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 .buttontext {
@@ -65,7 +68,6 @@ p {
 	font-weight: 400;
 	color: #FBEFAB;
 }
-
 
 #topnav{
 	text-align: center;
@@ -95,6 +97,30 @@ p {
 #features {
 	background-color: #FFE2B8;
 	text-align: center;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#key-feature {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#ratings {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#testimonial {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#download {
+	background-color: #FFE2B8;
 	border: 1px black solid;
     padding: 20px;
 }
