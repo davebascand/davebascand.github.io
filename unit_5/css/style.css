@@ -44,12 +44,21 @@ p {
 	color: #2B2B2B;
 }
 
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+    padding: 20px;
+}
+
 .wrapper {
 	padding: 0;
 }
 
 .textgroup {
 	text-align: left;
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 .app-features {
@@ -133,11 +142,15 @@ p {
 }
 
 #imageleft{
-	padding: 10px;
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 #imageright{
-	padding: 10px;
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 
