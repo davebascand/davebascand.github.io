@@ -57,6 +57,7 @@ p {
 	padding: 10px;
 	max-width: 300px;
 	display: inline-block;
+	align-content: top;
 }
 
 .buttontext {
