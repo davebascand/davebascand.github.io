@@ -15,7 +15,6 @@ header {
 	background-color: #FFED74;
 	border: 1px black solid;
     padding: 20px;
-    max-width: 70ch;
 }
 
 h1 {
@@ -42,7 +41,9 @@ p {
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 400;
 	line-height: 28px;
-	color: #2B2B2B;  	
+	color: #2B2B2B; 
+	max-width: 70ch; 
+	text-align: inherit;	
 }
 
 footer {
@@ -112,7 +113,6 @@ footer {
 	background-color: #FFE2B8;
 	border: 1px black solid;
     padding: 20px;
-    max-width: 70ch;
 }
 
 #features {
