@@ -15,7 +15,6 @@ header {
 	background-color: #FFED74;
 	border: 1px black solid;
     padding: 20px;
-    max-width: 75ch;
 }
 
 h1 {
@@ -110,7 +109,6 @@ footer {
 	font-weight: 400;
 	font-style: normal;
 	overflow: hidden;
-  	max-width: 75ch;
 }
 
 #about{
