@@ -82,6 +82,14 @@ footer {
     padding: 20px;
 }
 
+.ranking-box {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+    align-content: center;
+}
+
 .buttontext {
 	font-size: 14px;
 	font-family: 'Work Sans', sans-serif;
