@@ -42,6 +42,8 @@ p {
 	font-weight: 400;
 	line-height: 28px;
 	color: #2B2B2B;
+	overflow: hidden;
+  	max-width: 75ch;
 }
 
 footer {
@@ -104,6 +106,8 @@ footer {
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 400;
 	font-style: normal;
+	overflow: hidden;
+  	max-width: 75ch;
 }
 
 #about{
