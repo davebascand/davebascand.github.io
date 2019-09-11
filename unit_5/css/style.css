@@ -58,14 +58,14 @@ footer {
 
 .textgroup {
 	text-align: left;
-	background-color: #FFE2B8;
+	background-color: #E89C6C;
 	border: 1px black solid;
     padding: 20px;
 }
 
 .textgroup-centred {
 	text-align: center;
-	background-color: #FFE2B8;
+	background-color: #E89C6C;
 	border: 1px black solid;
     padding: 20px;
 }
@@ -152,13 +152,13 @@ footer {
 }
 
 #imageleft{
-	background-color: #FFE2B8;
+	background-color: #FFC675;
 	border: 1px black solid;
     padding: 20px;
 }
 
 #imageright{
-	background-color: #FFE2B8;
+	background-color: #FFC675;
 	border: 1px black solid;
     padding: 20px;
 }
