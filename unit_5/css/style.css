@@ -139,6 +139,7 @@ footer {
 }
 
 #download {
+	align-content: center;
 	background-color: #FFE2B8;
 	border: 1px black solid;
     padding: 20px;
@@ -162,7 +163,3 @@ footer {
 	border: 1px black solid;
     padding: 20px;
 }
-
-
-
-
