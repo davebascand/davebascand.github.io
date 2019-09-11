@@ -69,7 +69,6 @@ footer {
 	background-color: #E89C6C;
 	border: 1px black solid;
     padding: 20px;
-    align-content: center;
 }
 
 .app-features {
@@ -141,6 +140,7 @@ footer {
 }
 
 #download {
+	text-align: center;
 	background-color: #FFE2B8;
 	border: 1px black solid;
     padding: 20px;
