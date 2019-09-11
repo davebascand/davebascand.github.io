@@ -155,7 +155,6 @@ footer {
 	background-color: #FFC675;
 	border: 1px black solid;
     padding: 20px;
-    float: left;
     max-width: 400px;
 }
 
@@ -163,7 +162,6 @@ footer {
 	background-color: #FFC675;
 	border: 1px black solid;
     padding: 20px;
-    float: right;
     max-width: 400px;
 }
 
