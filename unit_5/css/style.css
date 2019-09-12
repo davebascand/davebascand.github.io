@@ -41,9 +41,7 @@ p {
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 400;
 	line-height: 28px;
-	color: #2B2B2B; 
-	max-width: 70ch; 
-	text-align: inherit;	
+	color: #2B2B2B;  	
 }
 
 footer {
@@ -63,6 +61,7 @@ footer {
 	background-color: #E89C6C;
 	border: 1px black solid;
     padding: 20px;
+    width: 250px;
 }
 
 .textgroup-centred {
@@ -70,6 +69,7 @@ footer {
 	background-color: #E89C6C;
 	border: 1px black solid;
     padding: 20px;
+    width: 250px;
 }
 
 .app-features {
