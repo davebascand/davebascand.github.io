@@ -103,10 +103,11 @@ footer {
 #topnav{
 	text-align: center;
 	font-size: 14px;
-	font-family: 'Work Sans', sans-serif;
+	font-family: 'trump_gothic_eastbold', 'Work Sans', sans-serif;
+	font-kerning: 120%;
+	color: #2B2B2B;
 	font-weight: 400;
 	line-height: 28px;
-	color: #2B2B2B;
 	background-color: #E8C66A;
 	border: 1px black solid;
     padding: 20px;
