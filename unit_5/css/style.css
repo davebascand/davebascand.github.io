@@ -80,6 +80,9 @@ footer {
 	background-color: #FFE2B8;
 	border: 1px black solid;
     padding: 20px;
+    height: 200px;
+    vertical-align: top;
+    align-content: center;
 }
 
 .ranking-box {
