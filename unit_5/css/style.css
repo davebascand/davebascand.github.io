@@ -132,6 +132,7 @@ footer {
 	text-align: center;
 	border: 1px black solid;
     padding: 20px;
+    align-content: center;
 }
 
 #key-feature {
