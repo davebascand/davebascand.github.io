@@ -45,6 +45,10 @@ p {
 	text-align: inherit;  	
 }
 
+nav a{
+	text-decoration: none;
+}
+
 footer {
 	background-color: #FF957E;
 	border: 1px black solid;
