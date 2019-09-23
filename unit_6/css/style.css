@@ -67,10 +67,10 @@ footer {
 	text-align: left;
 	background-color: #E89C6C;
 	border: 1px black solid;
-    padding: 20px;
+    padding: 2%;
     float: left;
     display: inline-block;
-    width: 50%;
+    width: 46%;
 }
 
 .textgroup {
@@ -188,10 +188,10 @@ footer {
 #headerimagephone{
 	background-color: #FFC675;
 	border: 1px black solid;
-    padding: 20px;
+    padding: 2%;
     float: right;
     display: inline-block;
-    width: 50%;
+    width: 46%;
 }
 
 #imageleft{
