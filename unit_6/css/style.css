@@ -63,6 +63,15 @@ footer {
     padding: 20px;
 }
 
+.headertext {
+	text-align: left;
+	background-color: #E89C6C;
+	border: 1px black solid;
+    padding: 20px;
+    width: 250px;
+    float: left;
+}
+
 .textgroup {
 	text-align: left;
 	background-color: #E89C6C;
@@ -173,6 +182,13 @@ footer {
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 400;
 	font-style: normal;
+}
+
+#headerimagephone{
+	background-color: #FFC675;
+	border: 1px black solid;
+    padding: 20px;
+    float: right;
 }
 
 #imageleft{
