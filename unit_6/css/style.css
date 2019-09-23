@@ -12,7 +12,7 @@
 
 header {
 	background-image: url(../images/map.jpg);
-	background-color: #FFED74;
+	background-size: cover;
 	border: 1px black solid;
 	display: inline-block;
 }
