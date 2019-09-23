@@ -11,7 +11,7 @@
 
 
 header {
-	background-image: url("images/map.jpg");
+	background-image: url(../images/map.jpg);
 	background-color: #FFED74;
 	border: 1px black solid;
 	display: inline-block;
