@@ -59,13 +59,12 @@ footer {
 }
 
 .wrapper {
-	border: 1px black solid;
+	border: none;
 }
 
 .headertext {
 	text-align: left;
 	color: #ffffff;
-	border: 1px black solid;
     padding: 200px 0px 100px 100px;
     float: left;
     display: inline-block;
@@ -74,14 +73,12 @@ footer {
 
 .textgroup {
 	text-align: left;
-	border: 1px black solid;
     padding: 20px;
     width: 250px;
 }
 
 .textgroup-centred {
 	text-align: center;
-	border: 1px black solid;
     padding: 2%;
     width: 95%;
     display: block;
@@ -93,7 +90,6 @@ footer {
 	max-width: 350px;
 	display: inline-block;
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 20px;
     height: 200px;
     vertical-align: top;
@@ -102,7 +98,6 @@ footer {
 
 .ranking-box {
 	background-color: D6D6D6;
-	border: 1px black solid;
     padding: 20px;
     text-align: center;
     align-content: center;
@@ -132,7 +127,6 @@ footer {
 	color: #ffffff;
 	font-weight: 400;
 	line-height: 28px;
-	border: 1px black solid;
     padding: 20px;
 }
 
@@ -147,14 +141,12 @@ footer {
 
 #about{
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 20px;
     display: inline-block;
 }
 
 #aboutimage{
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 20px;
     float: left;
     width: 45%;
@@ -163,7 +155,6 @@ footer {
 #abouttext {
 	text-align: left;
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 50px 100px 100px 20px;
     float: right;
     width: 35%;
@@ -181,21 +172,18 @@ footer {
 #features {
 	background-color: #ffffff;
 	text-align: center;
-	border: 1px black solid;
     padding: 20px;
     align-content: center;
 }
 
 #key-feature {
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 20px;
     display: inline-block;
 }
 
 #key_feature_text{
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 200px 0 100px 100px;
     float: left;
     width: 44%;
@@ -204,7 +192,6 @@ footer {
 #key_feature_image {
 	text-align: left;
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 20px;
     float: right;
     width: 44%;
@@ -212,7 +199,6 @@ footer {
 
 #ratings {
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 20px;
     display: inline-block;
 }
@@ -220,7 +206,6 @@ footer {
 #ratings_heading {
 	text-align: left;
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 20px;
     width: 95%;
     float: left;
@@ -228,7 +213,6 @@ footer {
 
 #ratings_phone_image{
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 20px;
     float: left;
     width: 40%;
@@ -236,7 +220,6 @@ footer {
 
 #testimonial {
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 20px;
     width: 45%;
     float: left;
@@ -244,7 +227,6 @@ footer {
 
 #ranking-grouped{
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 20px;
     width: 45%;
     float: right;
@@ -252,7 +234,6 @@ footer {
 
 #download {
 	background-color: #ffffff;
-	border: 1px black solid;
     padding: 20px;
     align-content: center;
     text-align: center;
@@ -267,7 +248,6 @@ footer {
 }
 
 #headerimagephone{
-	border: 1px black solid;
     padding: 2%;
     float: right;
     display: inline-block;
@@ -276,14 +256,12 @@ footer {
 
 #imageleft{
 	background-color: #FFC675;
-	border: 1px black solid;
     padding: 20px;
     float: left;
 }
 
 #imageright{
 	background-color: #FFC675;
-	border: 1px black solid;
     padding: 20px;
     float: right;
 }
