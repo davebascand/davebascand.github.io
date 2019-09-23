@@ -70,6 +70,7 @@ footer {
     padding: 20px;
     width: 250px;
     float: left;
+    display: inline-block;
 }
 
 .textgroup {
@@ -189,6 +190,7 @@ footer {
 	border: 1px black solid;
     padding: 20px;
     float: right;
+    display: inline-block;
 }
 
 #imageleft{
