@@ -85,6 +85,7 @@ footer {
 	border: 1px black solid;
     padding: 20px;
     width: 250px;
+    display: block;
 }
 
 .app-features {
