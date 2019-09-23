@@ -111,6 +111,10 @@ footer {
     width: 18%;
 }
 
+.white-bodytext{
+	color: #ffffff;
+}
+
 .buttontext {
 	font-size: 14px;
 	font-family: 'Work Sans', sans-serif;
