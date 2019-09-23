@@ -74,7 +74,6 @@ footer {
 
 .textgroup {
 	text-align: left;
-	background-color: #E89C6C;
 	border: 1px black solid;
     padding: 20px;
     width: 250px;
@@ -82,7 +81,6 @@ footer {
 
 .textgroup-centred {
 	text-align: center;
-	background-color: #E89C6C;
 	border: 1px black solid;
     padding: 2%;
     width: 95%;
@@ -94,7 +92,7 @@ footer {
 	padding: 10px;
 	max-width: 350px;
 	display: inline-block;
-	background-color: #FFE2B8;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 20px;
     height: 200px;
@@ -103,7 +101,7 @@ footer {
 }
 
 .ranking-box {
-	background-color: #FFE2B8;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 20px;
     text-align: center;
@@ -148,14 +146,14 @@ footer {
 }
 
 #about{
-	background-color: #FFB7CF;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 20px;
     display: inline-block;
 }
 
 #aboutimage{
-	background-color: violet;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 20px;
     float: left;
@@ -164,7 +162,7 @@ footer {
 
 #abouttext {
 	text-align: left;
-	background-color: pink;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 50px 100px 100px 20px;
     float: right;
@@ -181,7 +179,7 @@ footer {
 }
 
 #features {
-	background-color: #FFE2B8;
+	background-color: #ffffff;
 	text-align: center;
 	border: 1px black solid;
     padding: 20px;
@@ -189,14 +187,14 @@ footer {
 }
 
 #key-feature {
-	background-color: #FFE2B8;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 20px;
     display: inline-block;
 }
 
 #key_feature_text{
-	background-color: violet;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 200px 0 100px 100px;
     float: left;
@@ -205,7 +203,7 @@ footer {
 
 #key_feature_image {
 	text-align: left;
-	background-color: pink;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 20px;
     float: right;
@@ -213,7 +211,7 @@ footer {
 }
 
 #ratings {
-	background-color: #FFE2B8;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 20px;
     display: inline-block;
@@ -221,7 +219,7 @@ footer {
 
 #ratings_heading {
 	text-align: left;
-	background-color: violet;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 20px;
     width: 95%;
@@ -229,7 +227,7 @@ footer {
 }
 
 #ratings_phone_image{
-	background-color: violet;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 20px;
     float: left;
@@ -237,7 +235,7 @@ footer {
 }
 
 #testimonial {
-	background-color: #FFE2B8;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 20px;
     width: 45%;
@@ -245,7 +243,7 @@ footer {
 }
 
 #ranking-grouped{
-	background-color: #FFE2B8;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 20px;
     width: 45%;
@@ -253,7 +251,7 @@ footer {
 }
 
 #download {
-	background-color: #FFE2B8;
+	background-color: #ffffff;
 	border: 1px black solid;
     padding: 20px;
     align-content: center;
