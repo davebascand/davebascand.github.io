@@ -130,7 +130,7 @@ footer {
 }
 
 .icons{
-	width: 10%;
+	width: 30%;
 }
 
 #topnav{
@@ -187,7 +187,7 @@ footer {
 #features {
 	background-color: #ffffff;
 	text-align: center;
-    padding: 20px;
+    padding: 1.5em 1.5em 3em 1.5em;
     align-content: center;
 }
 
