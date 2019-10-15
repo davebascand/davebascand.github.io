@@ -14,7 +14,6 @@ header {
 	background-image: url(../images/map.jpg);
 	background-size: cover;
 	background-position: center;
-	border: 1px black solid;
 	display: inline-block;
 }
 
@@ -42,6 +41,7 @@ h4	{
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 600;
 	color: #2B2B2B;
+	padding-bottom: 0.5em;
 }
 
 p {
@@ -61,7 +61,6 @@ nav a{
 
 footer {
 	background-color: #2B2B2B;
-	border: 1px black solid;
 	padding: 50px 50px 50px 100px;
 }
 
