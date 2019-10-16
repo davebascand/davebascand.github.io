@@ -277,7 +277,7 @@ footer {
     float: right;
 }
 
-@media only screen and (max-width: 1248px) {
+@media only screen and (min-width: 1209px) and (max-width: 1248px) {
   .headertext{
   	padding: 7em 0px 7em 7em;
   }
@@ -299,6 +299,9 @@ footer {
   #abouttext {
   	width: 35%;
   	padding: 3em 3em 3em 1.5em;
+  }
+  #key_feature_image{
+  	width: 35%;
   }
   #routeplannerimage{
   	width: 540px;
