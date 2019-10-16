@@ -279,10 +279,11 @@ footer {
 
 @media only screen and (max-width: 1248px) {
   #headerimagephone {
+  	width: 35%;
   	float: none;
   }
   #doublephones {
-  	width: 320px;
+  	width: 450px;
   }
   #abouttext {
   	float: none;
