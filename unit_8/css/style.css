@@ -277,7 +277,7 @@ footer {
     float: right;
 }
 
-@media only screen and (min-width: 1130px) and (max-width: 1248px) {
+@media only screen and (min-width: 1130px) {
   .headertext{
   	padding: 7em 0px 7em 7em;
   }
