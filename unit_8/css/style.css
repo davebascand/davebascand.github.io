@@ -330,12 +330,13 @@ footer {
   #doublephones {
   	width: 400px;
   	height: auto;
+  	float: none;
   }
   #aboutimage{
   	width: 35%;
   }
     #beerflight{
-  	width: 450px;
+  	width: 350px;
   }
   #abouttext {
   	width: 35%;
