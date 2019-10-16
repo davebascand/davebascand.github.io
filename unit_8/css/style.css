@@ -317,3 +317,44 @@ footer {
   	height: auto;
   }
 }
+
+@media only screen and (min-width: 1000px) and (max-width: 1129px) {
+  .headertext{
+  	padding: 7em 0px 7em 7em;
+  }
+  #headerimagephone {
+  	width: 35%;
+  	float: none;
+  	height: auto;
+  }
+  #doublephones {
+  	width: 400px;
+  	height: auto;
+  }
+  #aboutimage{
+  	width: 35%;
+  }
+    #beerflight{
+  	width: 450px;
+  }
+  #abouttext {
+  	width: 35%;
+  	padding: 3em 3em 3em 1.5em;
+  }
+  #key_feature_text{
+  	width: 35%
+  	padding: 7em 0px 7em 7em;
+  }
+  #key_feature_image {
+  	width: 30%;
+  	height: auto;
+  }
+  #routeplannerpic {
+  	width: 400px;
+  	height: auto;
+  }
+  #locationphonepic {
+  	width: 350px;
+  	height: auto;
+  }
+}
