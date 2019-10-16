@@ -61,7 +61,7 @@ nav a{
 
 footer {
 	background-color: #2B2B2B;
-	padding: 50px 50px 50px 100px;
+	padding: 3em 3em 3em 7em;
 }
 
 .wrapper {
@@ -72,7 +72,7 @@ footer {
 .headertext {
 	text-align: left;
 	color: #ffffff;
-    padding: 200px 0px 100px 100px;
+    padding: 14em 0px 7em 7em;
     float: left;
     display: inline-block;
     width: 44%;
@@ -80,8 +80,8 @@ footer {
 
 .textgroup {
 	text-align: left;
-    padding: 20px;
-    width: 250px;
+    padding: 2%;
+    width: 50%;
 }
 
 .textgroup-centred {
@@ -93,12 +93,12 @@ footer {
 
 .app-features {
 	text-align: center;
-	padding: 10px;
-	max-width: 350px;
+	padding: 2%;
+	max-width: 29%;
 	display: inline-block;
 	background-color: #ffffff;
-    padding: 20px;
-    height: 200px;
+    padding: 2%;
+    height: 14em;
     vertical-align: top;
     align-content: center;
 }
