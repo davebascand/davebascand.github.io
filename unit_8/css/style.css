@@ -360,5 +360,6 @@ footer {
   }
   .button{
   	width: 180px;
+  	height: auto;
   }
 }
