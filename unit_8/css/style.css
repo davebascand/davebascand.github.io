@@ -278,7 +278,7 @@ footer {
 }
 
 @media only screen and (max-width: 1248){
-  #aboutimage {
+  #headerimagephone {
   	float: none
   }
   #abouttext {
