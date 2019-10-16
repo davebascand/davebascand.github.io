@@ -278,6 +278,9 @@ footer {
 }
 
 @media only screen and (max-width: 1248px) {
+  .headertext{
+  	padding: 7em 0px 7em 7em;
+  }
   #headerimagephone {
   	width: 35%;
   	float: none;
