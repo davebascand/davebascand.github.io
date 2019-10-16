@@ -277,7 +277,7 @@ footer {
     float: right;
 }
 
-@media only screen and (min-width: 1209px) and (max-width: 1248px) {
+@media only screen and (min-width: 1130px) and (max-width: 1248px) {
   .headertext{
   	padding: 7em 0px 7em 7em;
   }
@@ -287,14 +287,14 @@ footer {
   	height: auto;
   }
   #doublephones {
-  	width: 450px;
+  	width: 420px;
   	height: auto;
   }
   #aboutimage{
   	width: 45%;
   }
     #beerflight{
-  	width: 540px;
+  	width: 520px;
   }
   #abouttext {
   	width: 35%;
@@ -304,6 +304,6 @@ footer {
   	width: 35%;
   }
   #routeplannerimage{
-  	width: 540px;
+  	width: 480px;
   }
 }
