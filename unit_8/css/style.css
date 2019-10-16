@@ -277,18 +277,11 @@ footer {
     float: right;
 }
 
-@media only screen and (max-width: 1209){
-  #doublephones {
-  	width: 100px;
-  }
+@media only screen and (max-width: 1248){
   #aboutimage {
-  	width: 30%;
-  }
-  #beerflight {
-  	width: 10%;
-  	height: auto;
+  	float: none
   }
   #abouttext {
-  	width: 30%;
+  	float: none;
   }
 }
