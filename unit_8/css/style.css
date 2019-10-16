@@ -105,7 +105,7 @@ footer {
 
 .ranking-box {
 	background-color: #D6D6D6;
-    padding: 20px;
+    padding: 2%;
     text-align: center;
     align-content: center;
     float: left;
@@ -155,13 +155,13 @@ footer {
 
 #about{
 	background-color: #ffffff;
-    padding: 20px;
+    padding: 1.5em;
     display: inline-block;
 }
 
 #aboutimage{
 	background-color: #ffffff;
-    padding: 20px;
+    padding: 2%;
     float: left;
     width: 45%;
 }
@@ -169,7 +169,7 @@ footer {
 #abouttext {
 	text-align: left;
 	background-color: #ffffff;
-    padding: 50px 100px 100px 20px;
+    padding: 3em 7em 7em 1.5em;
     float: right;
     width: 35%;
 }
@@ -192,13 +192,13 @@ footer {
 
 #key-feature {
 	background-color: #2B2B2B;
-    padding: 20px 20px 0px 20px;
+    padding: 1.5em 1.5em 0 1.5em;
     display: inline-block;
 }
 
 #key_feature_text{
 	background-color: #2B2B2B;
-    padding: 200px 0px 0px 100px;
+    padding: 14em 0 0 17em;
     float: left;
     width: 44%;
 }
@@ -206,49 +206,49 @@ footer {
 #key_feature_image {
 	text-align: left;
 	background-color: #2B2B2B;
-    padding: 20 20px 0px 20px;
+    padding: 1.5em 1.5em 0 1.5em;
     float: right;
     width: 44%;
 }
 
 #ratings {
 	background-color: #ffffff;
-    padding: 20px;
+    padding: 1.5em;
     display: inline-block;
 }
 
 #ratings_heading {
 	text-align: left;
 	background-color: #ffffff;
-    padding: 20px;
+    padding: 1%;
     width: 95%;
     float: left;
 }
 
 #ratings_phone_image{
 	background-color: #ffffff;
-    padding: 20px;
+    padding: 2%;
     float: left;
     width: 40%;
 }
 
 #testimonial {
 	background-color: #ffffff;
-    padding: 20px;
+    padding: 1.5em;
     width: 45%;
     float: left;
 }
 
 #ranking-grouped{
 	background-color: #ffffff;
-    padding: 20px;
+    padding: 1.5em;
     width: 45%;
     float: right;
 }
 
 #download {
 	background-color: #ffffff;
-    padding: 20px;
+    padding: 1.5em;
     align-content: center;
     text-align: center;
 }
@@ -270,12 +270,12 @@ footer {
 
 #imageleft{
 	background-color: #FFC675;
-    padding: 20px;
+    padding: 1.5em;
     float: left;
 }
 
 #imageright{
 	background-color: #FFC675;
-    padding: 20px;
+    padding: 1.5em;
     float: right;
 }
