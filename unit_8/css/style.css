@@ -280,10 +280,10 @@ footer {
 @media only screen and (min-width: 1209) and (max-width: 1250px) {
   #headerimagephone {
     float: none;
-    width: 30%;
+    width: 25%;
   }
   #aboutimage {
-  	width: 40%;
+  	width: 30%;
   }
   #abouttext {
   	width: 30%;
