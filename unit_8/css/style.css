@@ -320,7 +320,7 @@ footer {
 
 @media only screen and (min-width: 1000px) and (max-width: 1129px) {
   .headertext{
-  	padding: 7em 0px 7em 7em;
+  	padding: 7em 0px 7em 3em;
   }
   #headerimagephone {
   	width: 35%;
@@ -344,7 +344,7 @@ footer {
   }
   #key_feature_text{
   	width: 35%
-  	padding: 7em 0px 7em 7em;
+  	padding: 7em 0px 7em 3em;
   }
   #key_feature_image {
   	width: 30%;
