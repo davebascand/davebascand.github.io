@@ -286,6 +286,9 @@ footer {
   	width: 450px;
   }
   #abouttext {
-  	float: none;
+  	width: 30%;
+  }
+  #beerflight{
+  	width: 450px;
   }
 }
