@@ -281,11 +281,14 @@ footer {
   #headerimagephone {
     width: 25%;
   }
+  #doublephones {
+  	width: 500px;
+  }
   #aboutimage {
   	width: 30%;
   }
   #beerflight{
-  	width: 70%;
+  	width: 500px;
   }
   #abouttext {
   	width: 30%;
