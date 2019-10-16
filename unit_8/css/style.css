@@ -285,10 +285,13 @@ footer {
   #doublephones {
   	width: 450px;
   }
+  #aboutimage{
+  	width: 35%;
+  }
+    #beerflight{
+  	width: 450px;
+  }
   #abouttext {
   	width: 30%;
-  }
-  #beerflight{
-  	width: 450px;
   }
 }
