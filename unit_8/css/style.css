@@ -280,15 +280,19 @@ footer {
 @media only screen and (min-width: 1209) and (max-width: 1250px) {
   #headerimagephone {
     width: 25%;
+    height: auto;
   }
   #doublephones {
   	width: 10%;
+  	height: auto;
   }
   #aboutimage {
   	width: 30%;
+  	height: auto;
   }
-  #beerflight{
+  #beerflight {
   	width: 10%;
+  	height: auto;
   }
   #abouttext {
   	width: 30%;
