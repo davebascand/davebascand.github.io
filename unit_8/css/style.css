@@ -278,12 +278,8 @@ footer {
 }
 
 @media only screen and (min-width: 1209) and (max-width: 1250px) {
-  #headerimagephone {
-    width: 25%;
-    height: auto;
-  }
   #doublephones {
-  	width: 10%;
+  	width: 100px;
   	height: auto;
   }
   #aboutimage {
