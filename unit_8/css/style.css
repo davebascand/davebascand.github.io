@@ -304,10 +304,12 @@ footer {
   	width: 40%
   	padding: 7em 0px 7em 7em;
   }
-  #key_feature_image{
+  #key_feature_image {
   	width: 30%;
+  	height: auto;
   }
   #routeplannerimage {
   	width: 400px;
+  	height: auto;
   }
 }
