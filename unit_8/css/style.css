@@ -281,9 +281,11 @@ footer {
   #headerimagephone {
   	width: 35%;
   	float: none;
+  	height: auto;
   }
   #doublephones {
   	width: 450px;
+  	height: auto;
   }
   #aboutimage{
   	width: 35%;
